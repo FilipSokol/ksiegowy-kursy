@@ -1,0 +1,87 @@
+{
+ "vwce": {
+  "price": 159.34,
+  "date": "2026-11-20",
+  "source": "Xetra close"
+ },
+ "eurpln": {
+  "rate": 4.4559,
+  "date": "2026-11-20",
+  "source": "NBP tabela A 226/A/NBP/2026"
+ },
+ "ref": 3.75,
+ "cpi": 3.5,
+ "bondsMonth": "2026-11",
+ "bonds": {
+  "OTS": {
+   "r1": 2,
+   "margin": 0
+  },
+  "ROR": {
+   "r1": 4,
+   "margin": 0
+  },
+  "DOR": {
+   "r1": 4.15,
+   "margin": 0.15
+  },
+  "TOS": {
+   "r1": 4.4,
+   "margin": 0
+  },
+  "COI": {
+   "r1": 4.75,
+   "margin": 1.5
+  },
+  "EDO": {
+   "r1": 5.35,
+   "margin": 2
+  }
+ },
+ "law": {
+  "asOf": "2026-11-22",
+  "years": {
+   "2027": {
+    "min": 4950,
+    "avg": 10033,
+    "hq4": null,
+    "ike": 30099,
+    "ikze": 18059.4,
+    "linLim": null,
+    "hmin": 445.5,
+    "official": [
+     "min",
+     "avg",
+     "ike",
+     "ikze",
+     "hmin"
+    ]
+   }
+  },
+  "ryczLimitPLN": 1094250,
+  "news": [
+   {
+    "date": "2026-11-06",
+    "title": "Limit ryczałtu od 2027: 250 tys. euro (1 094 250 zł)",
+    "text": "Senat przyjął ustawę bez poprawek; prezydent ma czas do 27.11. O prawie do ryczałtu w 2027 decyduje przychód z 2026 — Ciebie limit nie dotyczy.",
+    "impact": "medium",
+    "url": "https://www.prawo.pl/podatki/ilu-podatnikow-moze-stracic-prawo-do-ryczaltu-dane-mf,1557501.html"
+   },
+   {
+    "date": "2026-11-06",
+    "title": "Kary za KSeF odroczone do końca 2027 (Sejm)",
+    "text": "Sejm uchwalił przesunięcie kar za nieprawidłowości w KSeF na koniec 2027. Obowiązek wystawiania faktur w KSeF zostaje.",
+    "impact": "low",
+    "url": "https://www.tvp.info/96345774/sejm-uchwalil-ustawe-odraczajaca-do-konca-2027-r-kary-za-bledy-w-ksef"
+   },
+   {
+    "date": "2026-11-04",
+    "title": "Stopa referencyjna NBP bez zmian: 3,75%",
+    "text": "RPP nie zmieniła stóp. Wpływa na oprocentowanie ROR i DOR.",
+    "impact": "low",
+    "url": ""
+   }
+  ]
+ },
+ "updated": "2026-11-22"
+}
