@@ -83,5 +83,148 @@
    }
   ]
  },
- "updated": "2026-11-22"
+ "updated": "2026-11-23",
+ "promos": [
+  {
+   "id": "ikze-odliczenie-ryczalt-2026",
+   "bank": "Urząd Skarbowy (ulga)",
+   "title": "Wpłata na IKZE odliczana od przychodu na ryczałcie (limit 16 956 zł)",
+   "kind": "inne",
+   "maxBonus": 2035,
+   "conditions": [
+    "Wpłata na IKZE do 31.12.2026",
+    "Limit dla samozatrudnionego 16 956 zł",
+    "Odliczenie w zeznaniu rocznym (PIT-28)",
+    "Jedno IKZE na osobę; przy wypłacie 10% podatku"
+   ],
+   "effort": 1,
+   "validUntil": "2026-12-31",
+   "url": "https://www.podatki.gov.pl/ulgi/ulga-na-ikze-pit",
+   "taxNote": "To oszczędność podatku: 12% × wpłata przy stawce ryczałtu dla IT. Przy wypłacie po 65. r.ż. 10% podatku.",
+   "verifiedAt": "2026-11-23",
+   "realisticBonus": 2035
+  },
+  {
+   "id": "alior-bm-ike-ikze-500",
+   "bank": "Alior Bank (Biuro Maklerskie)",
+   "title": "Rachunek IKE/IKZE – złap 500 zł ekstra premii",
+   "kind": "inwestycje",
+   "maxBonus": 500,
+   "conditions": [
+    "Nowe maklerskie IKE lub IKZE otwarte 13.10–31.12.2026",
+    "Co najmniej 6000 zł do 31.12.2026 → 200 zł",
+    "Kolejne co najmniej 6000 zł w I półroczu 2027 → 200 zł",
+    "Łącznie co najmniej 10 000 zł w 2027 → 100 zł",
+    "Bez wypłat ani transferu środków; wymagane konto Alior lub rachunek maklerski",
+    "Limit 12 000 uczestników"
+   ],
+   "effort": 2,
+   "validUntil": "2026-12-31",
+   "url": "https://www.aliorbank.pl/dam/jcr:6d602cc5-bda4-4938-b911-ab146625c585/regulamin-promocji-rachunek-ikeikze-zlap-500-zl-ekstra-premii.pdf",
+   "taxNote": "Według regulaminu premia jest zwolniona z PIT (sprzedaż premiowa).",
+   "verifiedAt": "2026-11-23",
+   "realisticBonus": 500,
+   "newCustomerRule": "Brak maklerskiego IKE/IKZE w Alior otwartego przed 13.10.2026"
+  },
+  {
+   "id": "ing-firma-latwiejszy-pierwszy-rok-6",
+   "bank": "ING Bank Śląski",
+   "title": "Łatwiejszy pierwszy rok – edycja 6 (Konto Direct dla Firmy)",
+   "kind": "firma",
+   "maxBonus": 4200,
+   "conditions": [
+    "JDG z księgowością uproszczoną (ryczałt OK)",
+    "Przez 12 mies.: przelew do ZUS co najmniej 300 zł/mies. → 100 zł",
+    "Saldo co najmniej 4000 zł na koniec przynajmniej 1 dnia w miesiącu",
+    "Karta: 10% zwrotu, maks. 250 zł/mies.",
+    "Włączenie płatności KSeF w Moim ING; zgody marketingowe",
+    "Konto za 0 zł przez 2 lata"
+   ],
+   "effort": 2,
+   "validUntil": "2027-01-31",
+   "url": "https://www.ing.pl/_fileserver/item/aqj6dai",
+   "taxNote": "Według regulaminu premia to przychód z działalności; na ryczałcie opodatkowana stawką dla Twojej działalności (~12%).",
+   "verifiedAt": "2026-11-23",
+   "realisticBonus": 1200,
+   "newCustomerRule": "Brak rachunku rozliczeniowego w ING na ten sam NIP na dzień 30.06.2026; bez udziału we wcześniejszych edycjach"
+  },
+  {
+   "id": "millennium-moj-biznes-6000",
+   "bank": "Bank Millennium",
+   "title": "Otwórz Konto Mój Biznes z bonusem do 6000 zł",
+   "kind": "firma",
+   "maxBonus": 6000,
+   "conditions": [
+    "Karta lub portfel: 10% zwrotu, maks. 400 zł/mies. przez 6 mies.",
+    "Co miesiąc przelew do ZUS z formularza ZUS",
+    "Co miesiąc logowanie do aplikacji; zgody marketingowe",
+    "Terminal płatniczy (1800 zł) i leasing lub pożyczka (1800 zł) – opcjonalne",
+    "Limit 18 000 kont"
+   ],
+   "effort": 2,
+   "validUntil": "2027-02-28",
+   "url": "https://www.bankmillennium.pl/delegate/managedfiles/132001/latest",
+   "taxNote": "Według regulaminu premia to przychód z działalności; bank nie jest płatnikiem.",
+   "verifiedAt": "2026-11-23",
+   "realisticBonus": 2400,
+   "newCustomerRule": "Brak rachunku w Millennium od 1.10.2024 (załóż przed Millennium 360°)"
+  },
+  {
+   "id": "pko-konto-za-zero-prosty-zwrot",
+   "bank": "PKO BP",
+   "title": "PKO Konto za Zero – Prosty zwrot (kod PROSTO)",
+   "kind": "osobiste",
+   "maxBonus": 600,
+   "conditions": [
+    "Konto online z kartą Visa i kodem PROSTO",
+    "Przez 5 mies.: 10% zwrotu za płatności kartą, maks. 100 zł/mies.",
+    "100 zł za aktywność (logowanie i płatność kartą co miesiąc)"
+   ],
+   "effort": 1,
+   "validUntil": "2026-12-31",
+   "url": "https://www.pkobp.pl/klienci-indywidualni/konta/konta-osobiste/pko-konto-za-zero/",
+   "taxNote": "Cashback to zwykle obniżka ceny; premia zwolniona z PIT do 2000 zł (art. 21 ust. 1 pkt 68).",
+   "verifiedAt": "2026-11-23",
+   "realisticBonus": 600,
+   "newCustomerRule": "Brak konta osobistego w PKO od 1.04.2024 do 30.09.2026 (wg kontomaniaka)"
+  },
+  {
+   "id": "mbank-ike-ikze-pakiet-emerytalny-2026",
+   "bank": "mBank",
+   "title": "Inwestuj w IKE/IKZE w Pakiecie Emerytalnym 2026",
+   "kind": "inwestycje",
+   "maxBonus": 500,
+   "conditions": [
+    "Nowe IKE/IKZE w Pakiecie Emerytalnym (fundusze Gotowe Strategie)",
+    "Wpłaty lub transfer co najmniej 10 000 zł → 250 zł, co najmniej 20 000 zł → 500 zł (do końca 05.2027)",
+    "Bez wypłat do końca 06.2027"
+   ],
+   "effort": 2,
+   "validUntil": "2027-02-28",
+   "url": "https://www.mbank.pl/pdf/promocje/inwestycje/regulamin-promocji-inwestuj-w-ike-ikze-w-pakiecie-emerytalnym-2026.pdf",
+   "taxNote": "Według regulaminu zwolniona z PIT.",
+   "verifiedAt": "2026-11-23",
+   "realisticBonus": 250,
+   "newCustomerRule": "Brak aktywnego IKE/IKZE w Pakiecie Emerytalnym"
+  },
+  {
+   "id": "mbank-firma-pelne-mozliwosci-1",
+   "bank": "mBank",
+   "title": "Konto firmowe pełne możliwości – edycja 1 (zwolnienia z opłat)",
+   "kind": "firma",
+   "maxBonus": 0,
+   "conditions": [
+    "Firma działająca co najmniej 12 mies.",
+    "Zwolnienie z opłaty za konto w miesiącach z przelewem do ZUS lub wpływami co najmniej 1000 zł",
+    "20 darmowych przelewów PLN i 20 SEPA miesięcznie"
+   ],
+   "effort": 1,
+   "validUntil": "2026-11-30",
+   "url": "https://www.mbank.pl/pdf/firmy/promocje/konto-firmowe-pelne-mozliwosci-edycja-1-01-09-26-30-11-26.pdf",
+   "taxNote": "Brak premii pieniężnej.",
+   "verifiedAt": "2026-11-23",
+   "realisticBonus": 0,
+   "newCustomerRule": "Brak jakiegokolwiek rachunku w mBanku na ten NIP"
+  }
+ ]
 }
